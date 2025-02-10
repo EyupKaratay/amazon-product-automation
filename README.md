@@ -45,7 +45,7 @@ Projenin bağımlılıkları pom.xml dosyasında tanımlanmıştır:
 ## Nasıl Çalıştırılır?
 1. Projeyi klonlayın:
     ```bash
-    git clone https://github.com/eneskaynakk/amazon-product-automation.git
+    git clone https://github.com/EyupKaratay/amazon-product-automation.git
     cd projeadi
     
 2. Maven bağımlılıklarını yükleyin:
